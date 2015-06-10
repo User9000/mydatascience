@@ -1,7 +1,7 @@
 #include <iostream>
 #include <String>
 using namespace std;
-void sum()
+void sum(int a, int b)
 {
 
 
